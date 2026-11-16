@@ -1,0 +1,12 @@
+AI-BASED INTRUSION DETECTION SYSTEM (AI-IDS)
+
+This project focuses on developing an intelligent Intrusion Detection System using Machine Learning to identify suspicious and malicious network activities.
+
+The system uses the CIC-IDS dataset to train a Random Forest Classifier for analysing network traffic and distinguishing between benign and malicious traffic.
+
+Python is used for data processing, model training and system development, while Streamlit provides an interactive dashboard for displaying network activity, detection results and security alerts.
+
+The project also incorporates live packet capture for network traffic monitoring and Two-Factor Authentication (2FA) to provide an additional layer of application security.
+
+The primary objective is to demonstrate how Artificial Intelligence and Machine Learning can contribute to automated network threat detection and cybersecurity monitoring.
+                                                                                                                                                                                                                    
