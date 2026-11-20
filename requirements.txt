@@ -1,4 +1,5 @@
 scapy
+streamlit-autorefresh
 streamlit
 pandas
 numpy
